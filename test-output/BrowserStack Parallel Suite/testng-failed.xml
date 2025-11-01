@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="tests" name="Failed suite [BrowserStack Parallel Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="1" parallel="tests" name="iPhone_15(failed)">
+    <parameter name="os_version" value="17"/>
+    <parameter name="browser" value="Safari"/>
+    <parameter name="real_mobile" value="true"/>
+    <parameter name="browser_version" value="latest"/>
+    <parameter name="device" value="iPhone 15"/>
+    <classes>
+      <class name="testcases.BrowserStack">
+        <methods>
+          <include name="setUp"/>
+          <include name="testElPaisScraping"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testcases.BrowserStack -->
+    </classes>
+  </test> <!-- iPhone_15(failed) -->
+</suite> <!-- Failed suite [BrowserStack Parallel Suite] -->

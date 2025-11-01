@@ -1,0 +1,1 @@
+{"uuid":"a14a29cd-553f-4d56-b93e-16c86a080997","name":"testcases.TC05_WaiveOff_Maker_Archana","children":["cb4ce91b-0360-421b-a926-3be058668a79"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1743664484741,"stop":1743664491347}],"afters":[],"start":1743664484520,"stop":1743664648238}

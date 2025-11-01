@@ -1,0 +1,1425 @@
+2025-10-29 23:00:39.090 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\50046865\AppData\Local\Temp\testng-eclipse--1913405313\testng-customsuite.xml"
+2025-10-29 23:00:39.568 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:00:39.572 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-29 23:00:39.574 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:00:39.575 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:00:39.575 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:00:39.576 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:00:39.579 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:00:39.580 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:00:39.584 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-29 23:00:39.597 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2025-10-29 23:00:39.598 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:00:39.598 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:00:39.599 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:00:39.599 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:00:39.599 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:00:39.600 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:00:39.603 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:00:39.603 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:00:39.604 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:00:39.604 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:00:39.606 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:00:39.606 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:00:39.606 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:00:39.606 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:00:39.607 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-29 23:00:39.607 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:00:39.609 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:00:39.609 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:00:39.609 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:00:39.609 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:00:39.616 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\50046865\AppData\Local\Temp\testng-eclipse--1913405313\testng-customsuite.xml
+
+2025-10-29 23:00:39.644 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-10-29 23:00:39.917 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@aa004a0: 53 ms
+2025-10-29 23:00:39.931 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6c37bd27: 14 ms
+2025-10-29 23:00:39.945 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@49aa766b: 14 ms
+2025-10-29 23:00:39.953 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@55b8dbda: 7 ms
+2025-10-29 23:00:39.958 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1a5f7e7c: 5 ms
+2025-10-29 23:00:39.959 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5b22b970: 0 ms
+2025-10-29 23:03:46.123 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\50046865\AppData\Local\Temp\testng-eclipse-1459763270\testng-customsuite.xml"
+2025-10-29 23:03:46.733 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-29 23:03:46.736 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-29 23:03:46.738 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:03:46.738 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:03:46.739 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:03:46.739 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:03:46.739 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:03:46.739 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:03:46.751 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-10-29 23:03:46.766 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2025-10-29 23:03:46.767 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:03:46.767 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:03:46.768 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:03:46.768 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:03:46.768 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:03:46.768 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:03:46.770 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:03:46.770 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:03:46.771 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:03:46.771 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:03:46.773 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:03:46.773 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:03:46.773 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:03:46.773 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:03:46.774 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-29 23:03:46.774 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:03:46.775 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:03:46.775 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:03:46.775 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:03:46.775 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:03:46.781 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\50046865\AppData\Local\Temp\testng-eclipse-1459763270\testng-customsuite.xml
+
+2025-10-29 23:03:46.808 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-10-29 23:03:47.106 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4784013e: 44 ms
+2025-10-29 23:03:47.116 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4455f57d: 10 ms
+2025-10-29 23:03:47.128 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@ecfbe91: 12 ms
+2025-10-29 23:03:47.134 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@66e889df: 6 ms
+2025-10-29 23:03:47.138 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3a022576: 4 ms
+2025-10-29 23:03:47.138 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2dbd803f: 0 ms
+2025-10-29 23:04:26.955 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\50046865\AppData\Local\Temp\testng-eclipse-1867474511\testng-customsuite.xml"
+2025-10-29 23:04:27.432 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:04:27.434 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-29 23:04:27.435 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:04:27.435 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:04:27.436 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:04:27.436 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:04:27.436 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:04:27.436 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:04:27.439 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-29 23:04:27.448 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-10-29 23:04:27.449 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:04:27.450 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:04:27.451 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:04:27.451 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:04:27.451 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:04:27.451 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:04:27.453 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:04:27.453 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:04:27.453 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:04:27.454 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:04:27.455 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:04:27.455 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:04:27.455 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:04:27.456 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:04:27.456 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:04:27.457 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:04:27.457 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:04:27.458 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:04:27.458 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-29 23:04:27.458 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-29 23:04:27.462 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\50046865\AppData\Local\Temp\testng-eclipse-1867474511\testng-customsuite.xml
+
+2025-10-29 23:04:27.480 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2025-10-29 23:04:27.706 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@aa004a0: 41 ms
+2025-10-29 23:04:27.716 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6c37bd27: 9 ms
+2025-10-29 23:04:27.727 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@49aa766b: 11 ms
+2025-10-29 23:04:27.735 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@55b8dbda: 7 ms
+2025-10-29 23:04:27.739 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1a5f7e7c: 4 ms
+2025-10-29 23:04:27.739 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5b22b970: 0 ms
+2025-10-29 23:13:04.164 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\STS\CrossBrowser\testng.xml"
+2025-10-29 23:13:04.648 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\STS\CrossBrowser\testng.xml
+
+2025-10-29 23:15:34.781 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\STS\CrossBrowser\testng.xml"
+2025-10-29 23:15:35.366 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\STS\CrossBrowser\testng.xml
+
+2025-10-29 23:19:04.005 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\STS\CrossBrowser\testng.xml"
+2025-10-29 23:19:04.530 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\STS\CrossBrowser\testng.xml
+
+2025-10-29 23:28:07.193 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\STS\CrossBrowser\testng.xml"
+2025-10-29 23:28:07.658 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\STS\CrossBrowser\testng.xml
+
+2025-10-29 23:34:44.336 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\STS\CrossBrowser\testng.xml"
+2025-10-29 23:34:45.324 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\STS\CrossBrowser\testng.xml
+
+2025-10-29 23:35:05.178 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-29 23:35:05.448 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-29 23:38:26.160 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\STS\CrossBrowser\testng.xml"
+2025-10-29 23:38:27.004 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\STS\CrossBrowser\testng.xml
+
+2025-10-29 23:38:46.526 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-29 23:38:46.718 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-29 23:40:45.014 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\STS\CrossBrowser\testng.xml"
+2025-10-29 23:40:45.495 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\STS\CrossBrowser\testng.xml
+
+2025-10-29 23:40:56.861 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-29 23:40:57.016 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-29 23:41:00.088 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-30 14:47:38.770 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\STS\CrossBrowser\testng.xml"
+2025-10-30 14:47:39.437 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\STS\CrossBrowser\testng.xml
+
+2025-10-30 14:47:58.213 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-30 14:47:58.454 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-30 14:48:01.505 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-30 14:48:02.234 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-30 14:48:11.783 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-30 14:50:11.533 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\STS\CrossBrowser\testng.xml"
+2025-10-30 14:50:12.652 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\STS\CrossBrowser\testng.xml
+
+2025-10-30 14:50:29.506 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-30 14:50:29.701 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-30 14:50:32.771 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-30 14:50:33.592 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-30 14:50:36.049 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-30 15:01:10.226 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\STS\CrossBrowser\testng.xml"
+2025-10-30 15:01:10.766 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\STS\CrossBrowser\testng.xml
+
+2025-10-30 15:01:28.854 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-30 15:01:29.018 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-30 15:01:32.071 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-30 15:01:32.949 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-30 15:01:40.702 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-30 18:02:10.358 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\STS\CrossBrowser\testng.xml"
+2025-10-30 18:02:11.528 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\STS\CrossBrowser\testng.xml
+
+2025-10-30 18:02:33.134 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-30 18:02:33.482 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-30 18:02:36.563 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-30 18:02:37.447 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-30 18:02:45.418 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-30 18:02:48.968 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 18:02:55.528 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 18:02:58.887 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 18:02:58.888 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 18:02:59.105 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 18:03:05.703 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 18:03:08.910 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 18:03:08.910 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 18:03:09.078 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 18:03:14.534 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 18:03:17.799 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 18:03:17.799 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 18:03:18.021 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 18:03:20.601 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 18:03:23.739 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 18:03:23.739 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 18:03:23.980 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 18:03:28.621 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 18:03:31.740 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 18:03:31.740 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 21:36:06.154 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\STS\CrossBrowser\testng.xml"
+2025-10-30 21:36:06.860 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\STS\CrossBrowser\testng.xml
+
+2025-10-30 21:36:52.195 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-30 21:36:52.523 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-30 21:36:55.596 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-30 21:36:56.592 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-30 21:37:03.585 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-30 21:37:07.213 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 21:37:12.150 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 21:37:15.523 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 21:37:15.523 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 21:37:16.058 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 21:37:21.385 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 21:37:24.506 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 21:37:24.506 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 21:37:24.883 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 21:37:28.033 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 21:37:31.197 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 21:37:31.198 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 21:37:34.337 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-10-30 21:37:34.338 [main] ERROR pages.ArticlePage - Exceptionstale element reference: element is not attached to the page document
+  (Session info: chrome=110.0.5481.180)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5c65cce244fae714ece2a4dad8ed3530, getElementText {id=937f077c-7914-478e-a442-d7d8ec8fe498}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.180, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\50046865\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55668}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55668/devtoo..., se:cdpVersion: 110.0.5481.180, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (5c65cce244fae714ece2a4dad8ed3530)] -> css selector: article h2]
+Session ID: 5c65cce244fae714ece2a4dad8ed3530
+2025-10-30 22:04:33.850 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\STS\CrossBrowser\testng.xml"
+2025-10-30 22:04:34.517 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\STS\CrossBrowser\testng.xml
+
+2025-10-30 22:04:47.382 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-30 22:04:47.636 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-30 22:04:50.715 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-30 22:04:51.611 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-30 22:04:59.333 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-30 22:05:02.996 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 22:05:07.638 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 22:05:11.228 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 22:05:11.229 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 22:05:11.550 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 22:05:16.464 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 22:05:19.692 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 22:05:19.692 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 22:05:20.070 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 22:05:25.444 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 23:17:59.222 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\STS\CrossBrowser\testng.xml"
+2025-10-30 23:18:00.218 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\STS\CrossBrowser\testng.xml
+
+2025-10-30 23:18:12.848 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-30 23:18:13.063 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-30 23:18:16.161 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-30 23:18:16.890 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-30 23:18:24.241 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-30 23:18:27.686 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 23:18:32.327 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 23:18:35.706 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:18:35.706 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:18:35.999 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:18:35.999 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:18:36.079 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 23:18:40.233 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 23:18:43.337 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:18:43.337 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:18:43.511 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:18:43.511 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:18:43.604 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 23:18:48.298 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 23:18:51.399 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:18:51.400 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:18:51.579 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:18:51.579 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:18:51.710 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 23:18:54.781 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 23:18:57.868 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:18:57.869 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:18:58.078 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:18:58.079 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:18:58.242 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 23:19:03.070 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 23:19:06.220 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:19:06.220 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:19:06.430 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:19:06.431 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:27:16.670 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\STS\CrossBrowser\testng.xml"
+2025-10-30 23:27:17.275 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\STS\CrossBrowser\testng.xml
+
+2025-10-30 23:27:27.582 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-30 23:27:27.727 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-30 23:27:30.775 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-30 23:27:31.373 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-30 23:27:37.499 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-30 23:27:40.822 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 23:27:44.836 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 23:27:48.440 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:27:48.441 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:27:49.972 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:27:49.972 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:27:49.993 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-10-30 23:27:49.996 [main] ERROR pages.ArticlePage - Exceptionstale element reference: element is not attached to the page document
+  (Session info: chrome=110.0.5481.180)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [00d8946d7b03c23acea5acc134c2491c, getElementText {id=5c0ce271-627b-4dec-bd19-316e219375ca}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.180, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\50046865\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50376}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50376/devtoo..., se:cdpVersion: 110.0.5481.180, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (00d8946d7b03c23acea5acc134c2491c)] -> css selector: article h2]
+Session ID: 00d8946d7b03c23acea5acc134c2491c
+2025-10-30 23:43:24.135 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\STS\CrossBrowser\testng.xml"
+2025-10-30 23:43:24.790 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\STS\CrossBrowser\testng.xml
+
+2025-10-30 23:43:39.711 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-30 23:43:39.960 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-30 23:43:43.022 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-30 23:43:43.923 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-30 23:43:50.066 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-30 23:43:53.456 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 23:43:56.093 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 23:43:59.513 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:43:59.514 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:43:59.806 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:43:59.806 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:43:59.923 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 23:44:04.067 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 23:44:07.139 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:44:07.139 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:44:07.250 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:44:07.250 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:44:07.350 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 23:44:11.957 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 23:44:15.028 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:44:15.028 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:44:15.168 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:44:15.169 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:44:15.272 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 23:44:20.126 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 23:44:23.203 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:44:23.204 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:44:23.323 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:44:23.323 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:44:23.427 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 23:44:27.424 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 23:44:30.543 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:44:30.543 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:44:30.649 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:44:30.649 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:50:09.043 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\STS\CrossBrowser\testng.xml"
+2025-10-30 23:50:09.636 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\STS\CrossBrowser\testng.xml
+
+2025-10-30 23:50:18.720 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-30 23:50:18.851 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-30 23:50:21.895 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-30 23:50:22.448 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-30 23:50:24.015 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-30 23:50:27.350 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 23:50:33.281 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 23:50:36.769 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:50:36.769 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:50:37.038 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:50:37.038 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:50:37.117 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 23:50:41.076 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 23:50:44.171 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:50:44.171 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:50:44.298 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:50:44.298 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:50:44.401 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 23:50:45.520 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 23:50:48.603 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:50:48.604 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:50:48.754 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:50:48.754 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:50:48.865 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 23:50:52.896 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 23:50:55.997 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:50:55.997 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:50:56.146 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:50:56.146 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:50:56.226 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 23:50:58.959 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 23:51:02.055 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:51:02.055 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:51:02.205 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:51:02.205 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:55:09.097 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\STS\CrossBrowser\testng.xml"
+2025-10-30 23:55:09.622 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\STS\CrossBrowser\testng.xml
+
+2025-10-30 23:55:18.439 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-30 23:55:18.581 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-30 23:55:21.624 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-30 23:55:22.209 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-30 23:55:26.515 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-30 23:55:29.877 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-30 23:55:33.341 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-30 23:55:36.968 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:55:36.969 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:55:38.042 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-30 23:55:38.042 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-30 23:55:38.071 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-10-30 23:55:38.072 [main] ERROR pages.ArticlePage - Exceptionstale element reference: element is not attached to the page document
+  (Session info: chrome=110.0.5481.180)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fc5f4b1cc782199b00e2a7e3de593742, getElementText {id=9cb8718a-e06c-4175-91bc-897d3f7a384c}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.180, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\50046865\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52128}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52128/devtoo..., se:cdpVersion: 110.0.5481.180, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (fc5f4b1cc782199b00e2a7e3de593742)] -> css selector: article h2]
+Session ID: fc5f4b1cc782199b00e2a7e3de593742
+2025-10-31 00:04:41.693 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\STS\CrossBrowser\testng.xml"
+2025-10-31 00:04:42.478 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\STS\CrossBrowser\testng.xml
+
+2025-10-31 00:04:51.865 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-31 00:04:52.019 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-31 00:04:55.057 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-31 00:04:55.521 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-31 00:04:56.551 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-31 00:05:00.063 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 00:05:00.063 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 00:05:00.103 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 00:05:02.465 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 00:05:05.588 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 00:05:05.588 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 00:05:06.998 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-10-31 00:05:06.999 [main] ERROR pages.ArticlePage - Exceptionstale element reference: element is not attached to the page document
+  (Session info: chrome=110.0.5481.180)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [20568e0a5b916360b428130f104a0c2d, getElementText {id=ffa5c1b0-bb7a-49f8-948f-eb721054d408}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.180, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\50046865\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64064}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64064/devtoo..., se:cdpVersion: 110.0.5481.180, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (20568e0a5b916360b428130f104a0c2d)] -> css selector: article h2]
+Session ID: 20568e0a5b916360b428130f104a0c2d
+2025-10-31 18:17:51.873 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\STS\CrossBrowser\testng.xml"
+2025-10-31 18:17:52.806 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\STS\CrossBrowser\testng.xml
+
+2025-10-31 18:18:13.672 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-31 18:18:14.131 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-31 18:18:17.234 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-31 18:18:19.488 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-31 18:18:27.785 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-31 18:18:31.935 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 18:18:38.339 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 18:18:42.017 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:18:42.018 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:18:42.232 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:18:42.233 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:18:42.688 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 18:18:47.506 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 18:18:50.687 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:18:50.690 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:18:50.782 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:18:50.782 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:18:51.264 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 18:18:54.537 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 18:18:57.753 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:18:57.754 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:18:57.917 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:18:57.917 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:18:58.423 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 18:19:03.058 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 18:19:06.189 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:19:06.189 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:19:06.257 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:19:06.257 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:19:06.828 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 18:19:11.478 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 18:19:14.595 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:19:14.595 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:19:14.667 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:19:14.667 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:48:04.516 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\STS\CrossBrowser\testng.xml"
+2025-10-31 18:48:05.531 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\STS\CrossBrowser\testng.xml
+
+2025-10-31 18:48:18.271 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-31 18:48:18.667 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-31 18:48:21.758 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-31 18:48:22.787 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-31 18:48:33.058 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-31 18:48:36.686 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 18:48:43.603 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 18:48:47.192 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:48:47.193 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:48:47.443 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:48:47.444 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:48:47.755 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 18:48:52.199 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 18:48:55.338 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:48:55.338 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:48:55.427 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:48:55.427 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:48:55.720 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 18:49:00.350 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 18:49:03.480 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:49:03.481 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:49:03.544 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:49:03.544 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:49:04.252 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 18:49:07.484 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 18:49:10.605 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:49:10.605 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:49:10.681 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:49:10.681 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:49:11.221 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 18:49:16.001 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 18:49:19.149 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:49:19.149 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:49:19.217 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:49:19.217 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:51:04.132 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\STS\CrossBrowser\testng.xml"
+2025-10-31 18:51:05.178 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\STS\CrossBrowser\testng.xml
+
+2025-10-31 18:51:18.798 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-31 18:51:19.728 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-31 18:51:22.875 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-31 18:51:24.261 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-31 18:51:31.830 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-31 18:51:35.910 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 18:51:40.856 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 18:51:44.548 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:51:44.548 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:51:44.804 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:51:44.804 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:51:45.347 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 18:51:49.966 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 18:51:53.076 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:51:53.076 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:51:53.209 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:51:53.210 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:51:53.742 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 18:51:56.238 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 18:51:59.338 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:51:59.339 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:51:59.489 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:51:59.489 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:52:00.210 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 18:52:02.618 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 18:52:05.717 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:52:05.717 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:52:06.067 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:52:06.067 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:52:06.587 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 18:52:10.913 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 18:52:14.009 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:52:14.009 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 18:52:14.154 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 18:52:14.154 [main] ERROR pages.ArticlePage - ExceptionPKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-10-31 20:18:06.137 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-10-31 20:18:07.381 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-10-31 20:18:26.401 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-31 20:18:26.745 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-31 20:18:31.000 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-31 20:18:32.196 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-31 20:18:37.136 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-31 20:18:40.717 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 20:18:53.925 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 20:18:59.080 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 20:18:59.090 [main] ERROR pages.ArticlePage - ExceptionJSONObject["translatedText"] not found.
+2025-10-31 20:19:00.701 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 20:19:06.252 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 20:19:10.977 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 20:19:10.977 [main] ERROR pages.ArticlePage - ExceptionJSONObject["translatedText"] not found.
+2025-10-31 20:19:11.901 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 20:19:13.789 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 20:19:18.336 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 20:19:18.346 [main] ERROR pages.ArticlePage - ExceptionJSONObject["translatedText"] not found.
+2025-10-31 20:19:19.976 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 20:19:21.503 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 20:19:26.378 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 20:19:26.378 [main] ERROR pages.ArticlePage - ExceptionJSONObject["translatedText"] not found.
+2025-10-31 20:19:27.069 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 20:19:30.949 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 20:19:37.110 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 20:19:37.110 [main] ERROR pages.ArticlePage - ExceptionJSONObject["translatedText"] not found.
+2025-10-31 20:26:46.213 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-10-31 20:26:47.073 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-10-31 20:27:02.097 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-31 20:27:02.510 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-31 20:27:06.230 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-31 20:27:07.392 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-31 20:27:12.304 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-31 20:27:15.719 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 20:27:21.810 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 20:27:28.004 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-10-31 20:27:28.004 [main] ERROR pages.ArticlePage - Exceptionstale element reference: stale element not found
+  (Session info: chrome=141.0.7390.125)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f7bd4ced2a48254f76eb94ac7f4212fc, getElementText {id=f.B6EBE68A0A074817550E72158B59605A.d.91433B32C7D239BE1054E23684D7B009.e.91}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57031}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57031/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (f7bd4ced2a48254f76eb94ac7f4212fc)] -> css selector: article h2]
+Session ID: f7bd4ced2a48254f76eb94ac7f4212fc
+2025-10-31 20:36:01.897 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-10-31 20:36:02.798 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-10-31 20:36:13.247 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-31 20:36:13.394 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-31 20:36:16.464 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-31 20:36:17.052 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-31 20:36:22.580 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-31 20:36:25.993 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 20:36:32.456 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 20:36:39.699 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-10-31 20:36:39.700 [main] ERROR pages.ArticlePage - Exceptionstale element reference: stale element not found
+  (Session info: chrome=141.0.7390.125)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ac74aaf02e19f5387bae752ad8b3a580, getElementText {id=f.7A960EE86B5E63F010B7C672B6F4BB50.d.1FD85B3C72E0ECCAEA04E80B99A123A6.e.94}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60486}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60486/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (ac74aaf02e19f5387bae752ad8b3a580)] -> css selector: article h2]
+Session ID: ac74aaf02e19f5387bae752ad8b3a580
+2025-10-31 20:40:49.462 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-10-31 20:40:50.288 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-10-31 20:41:02.338 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-31 20:41:02.598 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-31 20:41:05.803 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-31 20:41:06.686 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-31 20:41:11.908 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-31 20:41:15.293 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 20:41:17.812 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 20:41:23.733 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 20:41:28.665 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 20:41:34.550 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-10-31 20:41:34.553 [main] ERROR pages.ArticlePage - Exceptionstale element reference: stale element not found
+  (Session info: chrome=141.0.7390.125)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [99c6f4a30e53309d08488ea42be18a53, getElementText {id=f.23B8453A0D8CC625A7759FC1C687B381.d.91CE1C31109D83939EB8E3EA2937737A.e.94}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50358}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50358/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (99c6f4a30e53309d08488ea42be18a53)] -> css selector: article h2]
+Session ID: 99c6f4a30e53309d08488ea42be18a53
+2025-10-31 20:55:19.628 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-10-31 20:55:20.875 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-10-31 20:55:33.459 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-31 20:55:33.717 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-31 20:55:36.836 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-31 20:55:37.483 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-31 20:55:45.210 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-31 20:55:48.623 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 20:55:55.767 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 20:56:01.033 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 20:56:08.455 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 20:56:13.427 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 20:56:15.998 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 20:56:20.705 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 20:56:25.451 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 20:56:29.934 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 20:56:35.276 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 22:46:04.264 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-10-31 22:46:05.129 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-10-31 22:46:18.386 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-31 22:46:18.776 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-31 22:46:21.927 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-31 22:46:23.280 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-31 22:46:28.793 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-31 22:46:32.318 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 22:46:37.974 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 22:46:43.196 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 22:46:47.290 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 22:46:51.550 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 22:46:53.740 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 22:46:58.003 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 22:47:01.469 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 22:47:05.956 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 22:47:08.840 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 23:21:14.975 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-10-31 23:21:15.838 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-10-31 23:21:29.232 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-31 23:21:29.636 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-31 23:21:32.747 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-31 23:21:33.766 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-31 23:21:38.994 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-31 23:21:52.603 [main] ERROR testcases.CrossBrowser - TestFailed for scrape Articles
+2025-10-31 23:21:52.603 [main] ERROR testcases.CrossBrowser - ExceptionExpected condition failed: waiting for visibility of [[ChromeDriver: chrome on windows (ad73607f24a6266d55b5e59b3fb30d70)] -> xpath: (//a[text()='Opinión'])[1]] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56240}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56240/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ad73607f24a6266d55b5e59b3fb30d70
+2025-10-31 23:26:17.841 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-10-31 23:26:18.705 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-10-31 23:26:31.598 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-31 23:26:31.852 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-31 23:26:35.087 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-31 23:26:36.014 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-31 23:26:40.281 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-31 23:26:43.853 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 23:26:46.528 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 23:26:51.967 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 23:26:51.967 [main] ERROR pages.ArticlePage - ExceptionJSONObject["translatedText"] not found.
+2025-10-31 23:26:52.277 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 23:26:56.188 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 23:27:00.081 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 23:27:00.081 [main] ERROR pages.ArticlePage - ExceptionJSONObject["translatedText"] not found.
+2025-10-31 23:27:00.368 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 23:27:02.713 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 23:27:06.670 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 23:27:06.670 [main] ERROR pages.ArticlePage - ExceptionJSONObject["translatedText"] not found.
+2025-10-31 23:27:07.268 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 23:27:08.877 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 23:27:12.973 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 23:27:12.974 [main] ERROR pages.ArticlePage - ExceptionJSONObject["translatedText"] not found.
+2025-10-31 23:27:13.303 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 23:27:16.353 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 23:27:20.347 [main] ERROR pages.ArticlePage - Error in Article Image Saving
+2025-10-31 23:27:20.347 [main] ERROR pages.ArticlePage - ExceptionJSONObject["translatedText"] not found.
+2025-10-31 23:40:56.123 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-10-31 23:40:57.143 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-10-31 23:41:10.537 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-31 23:41:11.009 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-31 23:41:14.209 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-31 23:41:15.171 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-31 23:41:20.572 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-31 23:41:24.060 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 23:41:29.330 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 23:41:35.724 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-10-31 23:41:35.725 [main] ERROR pages.ArticlePage - Exceptionstale element reference: stale element not found
+  (Session info: chrome=141.0.7390.125)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [754ee161a68db491b23c503974ea6357, getElementText {id=f.33A0DF2722DA79FC963CC5B78DDC5582.d.04DC31F29FFB8C66A91F7B1CA7E42F36.e.111}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63952}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63952/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (754ee161a68db491b23c503974ea6357)] -> css selector: article h2]
+Session ID: 754ee161a68db491b23c503974ea6357
+2025-10-31 23:42:49.480 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-10-31 23:42:50.343 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-10-31 23:43:02.045 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-31 23:43:02.356 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-31 23:43:05.747 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-31 23:43:06.495 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-31 23:43:22.926 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-31 23:43:26.469 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 23:43:28.051 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 23:43:33.478 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 23:43:51.027 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 23:43:55.575 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 23:43:57.413 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 23:44:01.656 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 23:44:02.843 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 23:44:07.185 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 23:44:09.944 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 23:50:07.070 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-10-31 23:50:07.924 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-10-31 23:50:18.623 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-10-31 23:50:18.914 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-10-31 23:50:22.004 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-10-31 23:50:22.481 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-10-31 23:50:27.398 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-10-31 23:50:30.925 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 23:50:36.830 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 23:50:42.136 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 23:50:45.895 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 23:50:50.215 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 23:50:51.324 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 23:50:55.813 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 23:50:57.410 [main] INFO  pages.ArticlePage - article is clicked
+2025-10-31 23:51:01.674 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-10-31 23:51:04.922 [main] INFO  pages.ArticlePage - article is clicked
+2025-11-01 08:14:25.572 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-11-01 08:14:26.595 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-11-01 08:14:39.749 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-01 08:14:40.013 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-01 08:14:43.107 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-01 08:14:43.858 [main] ERROR testcases.CrossBrowser - TestFailed for Opinion click
+2025-11-01 08:14:43.858 [main] ERROR testcases.CrossBrowser - ExceptionSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {value=html, using=tag name}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62313/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-11-01 08:15:32.606 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-11-01 08:15:33.432 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-11-01 08:15:44.350 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-01 08:15:44.694 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-01 08:15:47.782 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-01 08:15:48.593 [main] ERROR testcases.CrossBrowser - TestFailed for Opinion click
+2025-11-01 08:15:48.593 [main] ERROR testcases.CrossBrowser - ExceptionSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {using=tag name, value=html}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62072}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62072/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-11-01 08:16:14.885 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-11-01 08:16:15.715 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-11-01 08:16:26.638 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-01 08:16:26.898 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-01 08:16:30.000 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-01 08:16:30.591 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-01 08:16:34.632 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-01 08:16:38.047 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-11-01 08:16:44.843 [main] INFO  pages.ArticlePage - article is clicked
+2025-11-01 08:16:50.412 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-11-01 08:16:54.883 [main] INFO  pages.ArticlePage - article is clicked
+2025-11-01 08:16:59.192 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-11-01 08:17:00.904 [main] INFO  pages.ArticlePage - article is clicked
+2025-11-01 08:17:05.415 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-11-01 08:17:10.805 [main] INFO  pages.ArticlePage - article is clicked
+2025-11-01 08:17:15.058 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-11-01 08:17:17.616 [main] INFO  pages.ArticlePage - article is clicked
+2025-11-01 08:43:39.071 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-11-01 08:43:40.146 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-11-01 08:43:51.426 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-01 08:43:51.830 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-01 08:43:55.062 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-01 08:43:56.038 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-01 08:44:01.641 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-01 08:44:05.136 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-11-01 08:44:06.252 [main] ERROR pages.ArticlePage - TestFailed for article
+2025-11-01 08:44:06.267 [main] ERROR pages.ArticlePage - Exceptionelement click intercepted: Element <h2 class="c_t c_t-i " style="border: 0.3px solid red;">...</h2> is not clickable at point (230, 547). Other element would receive the click: <div id="s-pbs-first">...</div>
+  (Session info: chrome=141.0.7390.125)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dba0c973f649d04e93a0a74c8e967ea0, clickElement {id=f.87A8428E4F410AAB2CCAA11322603047.d.6B1CC85F928BE7A613AF08A75FADBB4B.e.101}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50611}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50611/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (dba0c973f649d04e93a0a74c8e967ea0)] -> css selector: article h2]
+Session ID: dba0c973f649d04e93a0a74c8e967ea0
+2025-11-01 08:44:15.056 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-11-01 08:44:15.056 [main] ERROR pages.ArticlePage - Exceptionstale element reference: stale element not found
+  (Session info: chrome=141.0.7390.125)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dba0c973f649d04e93a0a74c8e967ea0, getElementText {id=f.87A8428E4F410AAB2CCAA11322603047.d.6B1CC85F928BE7A613AF08A75FADBB4B.e.102}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50611}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50611/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (dba0c973f649d04e93a0a74c8e967ea0)] -> css selector: article h2]
+Session ID: dba0c973f649d04e93a0a74c8e967ea0
+2025-11-01 09:06:10.899 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-11-01 09:06:11.741 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-11-01 09:06:23.328 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-01 09:06:23.474 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-01 09:06:26.681 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-01 09:06:27.879 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-01 09:06:31.455 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-01 09:06:35.091 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-11-01 09:06:36.202 [main] ERROR pages.ArticlePage - TestFailed for article
+2025-11-01 09:06:36.202 [main] ERROR pages.ArticlePage - Exceptionelement click intercepted: Element <h2 class="c_t c_t-i " style="border: 0.3px solid red;">...</h2> is not clickable at point (230, 31). Other element would receive the click: <div class="x_ep _df">...</div>
+  (Session info: chrome=141.0.7390.125)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7cda4657a528bb5f223c4cdf19a572e3, clickElement {id=f.8811CE1D735C34B5D73A90CC2A3BBE59.d.32B3ED0DE4026CF92728EE7181375784.e.104}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50270}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50270/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (7cda4657a528bb5f223c4cdf19a572e3)] -> css selector: article h2]
+Session ID: 7cda4657a528bb5f223c4cdf19a572e3
+2025-11-01 09:06:43.601 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-11-01 09:06:43.601 [main] ERROR pages.ArticlePage - Exceptionstale element reference: stale element not found
+  (Session info: chrome=141.0.7390.125)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7cda4657a528bb5f223c4cdf19a572e3, getElementText {id=f.8811CE1D735C34B5D73A90CC2A3BBE59.d.32B3ED0DE4026CF92728EE7181375784.e.105}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50270}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50270/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (7cda4657a528bb5f223c4cdf19a572e3)] -> css selector: article h2]
+Session ID: 7cda4657a528bb5f223c4cdf19a572e3
+2025-11-01 09:08:00.201 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-11-01 09:08:01.137 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-11-01 09:08:12.780 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-01 09:08:12.942 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-01 09:08:16.405 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-01 09:08:17.512 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-01 09:08:21.533 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-01 09:08:26.250 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-11-01 09:08:26.250 [main] ERROR pages.ArticlePage - Exceptionelement click intercepted: Element <h2 class="c_t c_t-i ">...</h2> is not clickable at point (230, 30). Other element would receive the click: <div class="x_ep _df">...</div>
+  (Session info: chrome=141.0.7390.125)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [41324c4a6d47e264d026083233252a7f, clickElement {id=f.D2759E61044394C21676195D7BB1492D.d.C93B8195252FDE7DDF133A714C5D1586.e.106}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60967}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60967/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (41324c4a6d47e264d026083233252a7f)] -> css selector: article h2]
+Session ID: 41324c4a6d47e264d026083233252a7f
+2025-11-01 09:12:02.336 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-11-01 09:12:03.161 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-11-01 09:12:13.811 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-01 09:12:14.086 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-01 09:12:17.178 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-01 09:12:17.791 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-01 09:12:21.992 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-01 09:13:25.602 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-11-01 09:13:25.607 [main] ERROR pages.ArticlePage - ExceptionExpected condition failed: waiting for element to be clickable: By.cssSelector: OpinionPageArticle (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57573}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57573/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cf8011d7e6c83ec5d282898171619a8b
+2025-11-01 09:14:08.139 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-11-01 09:14:08.973 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-11-01 09:14:19.566 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-01 09:14:20.059 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-01 09:14:23.217 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-01 09:14:24.455 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-01 09:14:28.413 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-01 09:14:33.093 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-11-01 09:14:33.093 [main] ERROR pages.ArticlePage - Exceptionelement click intercepted: Element <h2 class="c_t c_t-i ">...</h2> is not clickable at point (230, 30). Other element would receive the click: <div class="x_ep _df">...</div>
+  (Session info: chrome=141.0.7390.125)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [66f25e55e0910226d430e600cdb8c7b8, clickElement {id=f.164BBC853B0AAAE05163A343D2B36BBE.d.34C9D92508B14AD44A508F7D6C5B3D7D.e.100}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61010}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61010/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (66f25e55e0910226d430e600cdb8c7b8)] -> css selector: article h2]
+Session ID: 66f25e55e0910226d430e600cdb8c7b8
+2025-11-01 09:16:19.548 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-11-01 09:16:20.352 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-11-01 09:16:33.241 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-01 09:16:33.620 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-01 09:16:39.303 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-01 09:16:40.088 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-01 09:16:44.160 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-01 09:16:52.495 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-11-01 09:16:52.511 [main] ERROR pages.ArticlePage - Exceptionstale element reference: stale element not found
+  (Session info: chrome=141.0.7390.125)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [188ed94753b71d995021b695ab76322b, getElementText {id=f.E4164FB850E1F03D05AF49563F79E22E.d.DD3B5B21AC7C3F8A54E4D19BF7FA4B43.e.100}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54919}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54919/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (188ed94753b71d995021b695ab76322b)] -> css selector: article h2]
+Session ID: 188ed94753b71d995021b695ab76322b
+2025-11-01 09:20:55.363 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-11-01 09:20:56.193 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-11-01 09:21:05.857 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-01 09:21:06.244 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-01 09:21:10.644 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-01 09:21:11.525 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-01 09:21:15.956 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-01 09:22:24.260 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-11-01 09:22:24.265 [main] ERROR pages.ArticlePage - Exceptionno such element: Unable to locate element: {"method":"xpath","selector":"//h2[@class='c_t c_t-i ']"}
+  (Session info: chrome=141.0.7390.125)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [65e2288fa9277bce2bd2dae2a207a7b5, findElement {value=//h2[@class='c_t c_t-i '], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52248}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52248/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 65e2288fa9277bce2bd2dae2a207a7b5
+2025-11-01 09:24:57.943 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-11-01 09:24:58.880 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-11-01 09:25:08.892 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-01 09:25:09.215 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-01 09:25:12.500 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-01 09:25:13.265 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-01 09:25:17.717 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-01 09:26:22.965 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-11-01 09:26:22.969 [main] ERROR pages.ArticlePage - Exceptionno such element: Unable to locate element: {"method":"css selector","selector":"figure img"}
+  (Session info: chrome=141.0.7390.125)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7f36812069a62dd32d5636f7572287cf, findElement {using=css selector, value=figure img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53249}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53249/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7f36812069a62dd32d5636f7572287cf
+2025-11-01 09:28:11.057 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-11-01 09:28:11.890 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-11-01 09:28:22.829 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-01 09:28:23.076 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-01 09:28:26.245 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-01 09:28:26.875 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-01 09:28:34.752 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-01 09:28:39.924 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-11-01 09:28:41.046 [main] ERROR pages.ArticlePage - TestFailed for article
+2025-11-01 09:28:41.061 [main] ERROR pages.ArticlePage - Exceptionelement click intercepted: Element <h2 class="c_t c_t-i " style="border: 0.3px solid red;">...</h2> is not clickable at point (230, 31). Other element would receive the click: <div class="x_ep _df">...</div>
+  (Session info: chrome=141.0.7390.125)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [074775ded43de9960dce992a3cfc6021, clickElement {id=f.5876EFF1825126E6BD5DC901DB843700.d.06F84F4909968433FF3D0D8A1874B49A.e.99}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57206}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57206/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (074775ded43de9960dce992a3cfc6021)] -> css selector: article h2]
+Session ID: 074775ded43de9960dce992a3cfc6021
+2025-11-01 09:29:01.627 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-11-01 09:29:02.719 [main] ERROR pages.ArticlePage - TestFailed for article
+2025-11-01 09:29:02.719 [main] ERROR pages.ArticlePage - Exceptionelement click intercepted: Element <h2 class="c_t c_t-i " style="border: 0.3px solid red;">...</h2> is not clickable at point (230, 11). Other element would receive the click: <div class="x_ep _df">...</div>
+  (Session info: chrome=141.0.7390.125)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [074775ded43de9960dce992a3cfc6021, clickElement {id=f.5876EFF1825126E6BD5DC901DB843700.d.06F84F4909968433FF3D0D8A1874B49A.e.100}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57206}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57206/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (074775ded43de9960dce992a3cfc6021)] -> css selector: article h2]
+Session ID: 074775ded43de9960dce992a3cfc6021
+2025-11-01 09:30:05.807 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-11-01 09:30:05.807 [main] ERROR pages.ArticlePage - Exceptionno such element: Unable to locate element: {"method":"css selector","selector":"figure img"}
+  (Session info: chrome=141.0.7390.125)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [074775ded43de9960dce992a3cfc6021, findElement {value=figure img, using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57206}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57206/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 074775ded43de9960dce992a3cfc6021
+2025-11-01 09:31:56.997 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-11-01 09:31:57.822 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-11-01 09:32:09.275 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-01 09:32:09.526 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-01 09:32:12.610 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-01 09:32:13.253 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-01 09:32:17.429 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-01 09:32:21.113 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-11-01 09:32:22.309 [main] ERROR pages.ArticlePage - TestFailed for article
+2025-11-01 09:32:22.312 [main] ERROR pages.ArticlePage - Exceptionelement click intercepted: Element <h2 class="c_t c_t-i " style="border: 0.3px solid red;">...</h2> is not clickable at point (230, 31). Other element would receive the click: <div class="x_ep _df">...</div>
+  (Session info: chrome=141.0.7390.125)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d2bf93372d57b11fffacd5ad94a4ce3e, clickElement {id=f.C5E1331C2A1D21A86C95D5F4FE0C567A.d.CD4C1DE1526268A78A4AFAAA96FBA5CF.e.102}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57714}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57714/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (d2bf93372d57b11fffacd5ad94a4ce3e)] -> css selector: article h2]
+Session ID: d2bf93372d57b11fffacd5ad94a4ce3e
+2025-11-01 09:33:25.386 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-11-01 09:33:25.386 [main] ERROR pages.ArticlePage - Exceptionno such element: Unable to locate element: {"method":"css selector","selector":"figure img"}
+  (Session info: chrome=141.0.7390.125)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d2bf93372d57b11fffacd5ad94a4ce3e, findElement {using=css selector, value=figure img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57714}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57714/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d2bf93372d57b11fffacd5ad94a4ce3e
+2025-11-01 09:35:00.079 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-11-01 09:35:00.892 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-11-01 09:35:11.940 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-01 09:35:12.247 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-01 09:35:15.427 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-01 09:35:16.041 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-01 09:35:22.973 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-01 09:35:26.646 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-11-01 09:35:27.780 [main] ERROR pages.ArticlePage - TestFailed for article
+2025-11-01 09:35:27.780 [main] ERROR pages.ArticlePage - Exceptionelement click intercepted: Element <h2 class="c_t c_t-i " style="border: 0.3px solid red;">...</h2> is not clickable at point (230, 31). Other element would receive the click: <div class="x_ep _df">...</div>
+  (Session info: chrome=141.0.7390.125)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f22c3ab952ee9809ed9c1696082f6321, clickElement {id=f.DB99CC77876B7C65865B31FE3FEC7781.d.B8663F7A888432170DC6DBCB473383CC.e.88}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63629}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63629/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (f22c3ab952ee9809ed9c1696082f6321)] -> css selector: article h2]
+Session ID: f22c3ab952ee9809ed9c1696082f6321
+2025-11-01 09:36:32.860 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-11-01 09:36:32.860 [main] ERROR pages.ArticlePage - Exceptionno such element: Unable to locate element: {"method":"css selector","selector":"figure img"}
+  (Session info: chrome=141.0.7390.125)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f22c3ab952ee9809ed9c1696082f6321, findElement {using=css selector, value=figure img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63629}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63629/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f22c3ab952ee9809ed9c1696082f6321
+2025-11-01 09:37:20.647 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-11-01 09:37:21.497 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-11-01 09:37:32.199 [main] INFO  pages.ArticlePage_LibreAPI - Accept Button icon is visible true
+2025-11-01 09:37:32.543 [main] INFO  pages.ArticlePage_LibreAPI - Accept Button is clicked
+2025-11-01 09:37:35.908 [main] INFO  pages.ArticlePage_LibreAPI - Page is in Spanish Language
+2025-11-01 09:37:36.887 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-01 09:37:41.855 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-01 09:37:45.509 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-11-01 09:37:46.667 [main] ERROR pages.ArticlePage - TestFailed for article
+2025-11-01 09:37:46.673 [main] ERROR pages.ArticlePage - Exceptionelement click intercepted: Element <h2 class="c_t c_t-i " style="border: 0.3px solid red;">...</h2> is not clickable at point (230, 31). Other element would receive the click: <div class="x_ep _df">...</div>
+  (Session info: chrome=141.0.7390.125)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6c428d4d85ed61dec96e1990da8c38dc, clickElement {id=f.4F2DD3493B41674426FBB6769326F45F.d.E6022A15EC3D667224E3B873FAC895B1.e.92}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53348}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53348/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (6c428d4d85ed61dec96e1990da8c38dc)] -> css selector: article h2]
+Session ID: 6c428d4d85ed61dec96e1990da8c38dc
+2025-11-01 09:38:51.827 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-11-01 09:38:51.828 [main] ERROR pages.ArticlePage - Exceptionno such element: Unable to locate element: {"method":"css selector","selector":"figure img"}
+  (Session info: chrome=141.0.7390.125)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6c428d4d85ed61dec96e1990da8c38dc, findElement {value=figure img, using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53348}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53348/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6c428d4d85ed61dec96e1990da8c38dc
+2025-11-01 09:42:16.188 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-11-01 09:42:17.015 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-11-01 09:42:29.580 [main] INFO  pages.ArticlePage_LibreAPI - Accept Button icon is visible true
+2025-11-01 09:42:29.835 [main] INFO  pages.ArticlePage_LibreAPI - Accept Button is clicked
+2025-11-01 09:42:35.514 [main] INFO  pages.ArticlePage_LibreAPI - Page is in Spanish Language
+2025-11-01 09:42:36.312 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-01 09:42:41.774 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-01 09:43:45.480 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-11-01 09:43:46.647 [main] ERROR pages.ArticlePage - TestFailed for article
+2025-11-01 09:43:46.652 [main] ERROR pages.ArticlePage - Exceptionelement click intercepted: Element <h2 class="c_t c_t-i " style="border: 0.3px solid red;">...</h2> is not clickable at point (230, 32). Other element would receive the click: <div class="x_ep _df">...</div>
+  (Session info: chrome=141.0.7390.125)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2bec4382deda18a3327b738c5e748555, clickElement {id=f.9216BE9E99B23E532EBCCAB9569A2952.d.3EC1F4086364DF402C2C8E2941F22E90.e.154}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58690}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58690/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (2bec4382deda18a3327b738c5e748555)] -> css selector: article h2]
+Session ID: 2bec4382deda18a3327b738c5e748555
+2025-11-01 09:43:55.275 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-11-01 09:43:55.275 [main] ERROR pages.ArticlePage - Exceptionstale element reference: stale element not found
+  (Session info: chrome=141.0.7390.125)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2bec4382deda18a3327b738c5e748555, getElementText {id=f.9216BE9E99B23E532EBCCAB9569A2952.d.3EC1F4086364DF402C2C8E2941F22E90.e.155}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58690}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58690/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (2bec4382deda18a3327b738c5e748555)] -> css selector: article h2]
+Session ID: 2bec4382deda18a3327b738c5e748555
+2025-11-01 09:46:43.358 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-11-01 09:46:44.306 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-11-01 09:46:56.119 [main] INFO  pages.ArticlePage_LibreAPI - Accept Button icon is visible true
+2025-11-01 09:46:56.374 [main] INFO  pages.ArticlePage_LibreAPI - Accept Button is clicked
+2025-11-01 09:46:59.961 [main] INFO  pages.ArticlePage_LibreAPI - Page is in Spanish Language
+2025-11-01 09:47:00.564 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-01 09:47:04.157 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-01 09:48:07.904 [main] INFO  pages.ArticlePage - article icon is visible true
+2025-11-01 09:48:09.098 [main] ERROR pages.ArticlePage - TestFailed for article
+2025-11-01 09:48:09.098 [main] ERROR pages.ArticlePage - Exceptionelement click intercepted: Element <h2 class="c_t c_t-i " style="border: 0.3px solid red;">...</h2> is not clickable at point (230, 31). Other element would receive the click: <div class="x_ep _df">...</div>
+  (Session info: chrome=141.0.7390.125)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [55ecfa15b1696e279d21075c9a27de81, clickElement {id=f.48DD72F548757C84B58DC1A711475E96.d.A76873F577C8431DFA3EE87026FA9C12.e.100}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50796}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50796/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (55ecfa15b1696e279d21075c9a27de81)] -> css selector: article h2]
+Session ID: 55ecfa15b1696e279d21075c9a27de81
+2025-11-01 09:49:13.715 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-11-01 09:49:13.716 [main] ERROR pages.ArticlePage - Exceptionno such element: Unable to locate element: {"method":"css selector","selector":"figure img"}
+  (Session info: chrome=141.0.7390.125)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [55ecfa15b1696e279d21075c9a27de81, findElement {using=css selector, value=figure img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50796}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50796/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 55ecfa15b1696e279d21075c9a27de81
+2025-11-01 09:49:26.426 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-11-01 09:49:27.247 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-11-01 09:49:38.669 [main] INFO  pages.ArticlePage_LibreAPI - Accept Button icon is visible true
+2025-11-01 09:49:38.927 [main] INFO  pages.ArticlePage_LibreAPI - Accept Button is clicked
+2025-11-01 09:49:42.051 [main] INFO  pages.ArticlePage_LibreAPI - Page is in Spanish Language
+2025-11-01 09:49:42.910 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-01 09:49:46.460 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-01 09:50:51.232 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-11-01 09:50:51.234 [main] ERROR pages.ArticlePage - Exceptionelement click intercepted: Element <h2 class="c_t c_t-i ">...</h2> is not clickable at point (230, 30). Other element would receive the click: <div class="x_ep _df">...</div>
+  (Session info: chrome=141.0.7390.125)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2960a98be3ec576fabd40d40796189d1, clickElement {id=f.DAE8258EA71366063834F8308195B21F.d.7EF335B4894DA789B3DC90BB1124E962.e.103}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52792}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52792/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (2960a98be3ec576fabd40d40796189d1)] -> css selector: article h2]
+Session ID: 2960a98be3ec576fabd40d40796189d1
+2025-11-01 09:55:14.648 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-11-01 09:55:15.539 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-11-01 09:55:27.133 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-01 09:55:27.435 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-01 09:55:31.104 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-01 09:55:32.409 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-01 09:55:36.520 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-01 09:56:42.201 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-11-01 09:56:42.203 [main] ERROR pages.ArticlePage - Exceptionno such element: Unable to locate element: {"method":"css selector","selector":"figure img"}
+  (Session info: chrome=141.0.7390.125)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e854d749059f680c596348200c50e910, findElement {value=figure img, using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57632}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57632/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e854d749059f680c596348200c50e910
+2025-11-01 09:58:55.656 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-11-01 09:58:56.537 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-11-01 09:59:07.046 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-01 09:59:07.478 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-01 09:59:10.746 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-01 09:59:11.555 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-01 09:59:15.677 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-01 10:02:54.280 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\testng.xml"
+2025-11-01 10:02:55.171 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\testng.xml
+
+2025-11-01 10:03:07.367 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-01 10:03:07.681 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-01 10:03:10.919 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-01 10:03:12.124 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-01 10:03:16.116 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-01 10:56:25.248 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 10:57:29.301 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 10:57:51.016 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 10:57:51.928 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 10:57:54.584 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update test container: container with uuid 67fef39c-664d-4a6c-bf14-da7217aac264 not found
+2025-11-01 10:57:54.584 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update test container: container with uuid 17e4b988-4e5c-4ffc-90dc-636ae8bdffc2 not found
+2025-11-01 11:24:48.406 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 11:24:49.352 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 11:29:38.367 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 11:29:39.277 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 11:35:39.138 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 11:35:40.340 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 11:36:14.812 [TestNG-tests-1] ERROR pages.ArticlePage - TestFailed for Opinion Button
+2025-11-01 11:36:14.813 [TestNG-tests-1] ERROR pages.ArticlePage - ExceptionCannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "jse" is null
+2025-11-01 11:36:17.967 [TestNG-tests-2] ERROR pages.ArticlePage - TestFailed for Opinion Button
+2025-11-01 11:36:17.967 [TestNG-tests-2] ERROR pages.ArticlePage - ExceptionCannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "jse" is null
+2025-11-01 11:41:01.305 [TestNG-tests-3] ERROR pages.ArticlePage - TestFailed for Opinion Button
+2025-11-01 11:41:01.306 [TestNG-tests-3] ERROR pages.ArticlePage - ExceptionCannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "jse" is null
+2025-11-01 11:41:29.098 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 11:41:30.697 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 11:42:46.316 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 11:42:47.363 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 14:41:02.284 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 14:41:03.702 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 14:57:32.498 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 14:57:34.062 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 15:05:28.987 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 15:05:30.028 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 15:11:38.947 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 15:11:40.201 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 16:16:44.322 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 16:16:45.506 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 16:28:41.034 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 16:28:42.142 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 16:37:29.791 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 16:37:31.122 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 16:50:58.583 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 16:50:59.784 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 16:55:34.348 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 16:55:35.444 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 16:59:19.994 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 16:59:21.321 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 17:30:09.915 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 17:30:11.102 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 17:56:49.052 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 17:56:49.949 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 18:09:51.097 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 18:09:52.198 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 18:47:36.030 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 18:47:37.012 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 19:32:51.983 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 19:32:52.835 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 19:52:39.036 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 19:52:40.085 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 20:16:20.637 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 20:16:21.454 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 20:38:54.845 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 20:38:55.972 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 20:54:31.125 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 20:54:32.308 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 21:00:12.636 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 21:00:13.471 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 21:21:12.189 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 21:21:13.003 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 21:25:15.622 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml"
+2025-11-01 21:25:16.470 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting2.xml
+
+2025-11-01 21:52:16.754 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml"
+2025-11-01 21:53:25.943 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml"
+2025-11-01 21:53:26.920 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml
+
+2025-11-01 21:54:22.257 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml"
+2025-11-01 21:54:23.113 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml
+
+2025-11-01 22:10:17.895 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml"
+2025-11-01 22:10:19.149 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml
+
+2025-11-01 23:13:34.873 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml"
+2025-11-01 23:13:36.232 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml
+

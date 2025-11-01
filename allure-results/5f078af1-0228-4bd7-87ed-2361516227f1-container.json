@@ -1,0 +1,1 @@
+{"uuid":"5f078af1-0228-4bd7-87ed-2361516227f1","name":"testcases.BrowserStack.setUp","children":["01ba603c-c966-41f0-a850-fed8d693a190"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1762012516591,"stop":1762012537198}],"afters":[],"start":1762012516589,"stop":1762012537198}
