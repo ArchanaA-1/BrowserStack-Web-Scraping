@@ -92,59 +92,59 @@ public class ArticlePage extends BasePage {
 	
 	public void scrapeArticles() throws Throwable{
 	   
-		wait.until(ExpectedConditions.visibilityOf(OpinionPage));
-		//closePopUp();
-		List<String> englishTitles = new ArrayList<>();
-		try {
-		//Fetching all the articles in the page and store it in a list
-		List<WebElement> articleTitles=driver.findElements(By.cssSelector("article h2"));
-		List<WebElement> articleContent=driver.findElements(By.cssSelector("article p"));
-		
-		//To take the minimum value so that if there are articles less than 5 then there is no exception in for loop
-		int count=Math.min(articleTitles.size(), 5);
-		
-		for(int i=0;i<count;i++) {
-			
-			//Print Article Title and Content
-			WebElement article=articleTitles.get(i);
-			WebElement paragraph=articleContent.get(i);
-			
-			wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("article")));
-			String Title=article.getText();
-			String Content=paragraph.getText();
-			System.out.println("Article Title"+ (i+1)+": "+Title);
-			System.out.println("Article Content"+ (i+1)+": "+Content);
-			
-			//Translate to English
-			String translatedTitle=translateText(Title,"es","en");
-			englishTitles.add(translatedTitle);
-			System.out.println("English Title of Article"+ (i+1)+": "+translatedTitle);	
-			
-			
-			//Click Title
-			wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("article h2")));
-			((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView({block: 'center'});", article);
-			Thread.sleep(500);
-			article.click();
-			
-			//Image Download
-			WebElement img=driver.findElement(By.cssSelector("figure img"));
-			String imgURL=img.getAttribute("src");
-			
-			//To validate if imgURL is not Null and an Empty String
-			if(imgURL!=null && !imgURL.isEmpty()) {
-				saveImage(imgURL, "Article_Image_"+(i+1)+".jpg");
-				System.out.println("Image of Article "+(i+1)+" saved successfully with file name Article_Image_"+(i+1)+".jpg");
-				System.out.println("---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------");
-			}
-			//Navigate back to Opinion Page
-			driver.navigate().back();
-			
-			
-		
-		}
-		//Count repeated Words
-		findRepeatedWords(englishTitles);
+		 // Wait for articles to load
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector("article h2 a")));
+        
+        //Fetching all the articles in the page and store it in a list
+        List<WebElement> articleLinks = driver.findElements(By.cssSelector("article h2 a"));
+        List<WebElement> articleTitles = driver.findElements(By.cssSelector("article h2"));
+        
+        List<String> englishTitles = new ArrayList<>();
+        
+        //To take the minimum value so that if there are articles less than 5 then there is no exception in for loop
+        int count = Math.min(articleTitles.size(), 5);
+        try {
+        for (int i = 0; i < count; i++) {
+            // Re-locate elements inside loop to avoid stale references
+            WebElement article = driver.findElements(By.cssSelector("article h2")).get(i);
+            WebElement paragraph = driver.findElements(By.cssSelector("article p")).get(i);
+
+            wait.until(ExpectedConditions.visibilityOf(article));
+            String title = article.getText();
+            String content = paragraph.getText();
+            String articleURL=articleLinks.get(i).getAttribute("href");
+
+            System.out.println("Article Title " + (i + 1) + ": " + title);
+            System.out.println("Article Content " + (i + 1) + ": " + content);
+
+            // Translate to English
+            String translatedTitle = translateText(title, "es", "en");
+            englishTitles.add(translatedTitle);
+            System.out.println("English Title of Article " + (i + 1) + ": " + translatedTitle);
+            
+            // Navigate to articles
+            driver.navigate().to(articleURL);
+
+            // Wait for image to load and download
+            WebElement img = wait.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector("figure img")));
+            String imgURL = img.getAttribute("src");
+
+            //Download if image is present
+            if (imgURL != null && !imgURL.isEmpty()) {
+                saveImage(imgURL, "Article_Image_" + (i + 1) + ".jpg");
+                System.out.println("Image of Article " + (i + 1) + " saved successfully.");
+                System.out.println("--------------------------------------------------------------------");
+            }
+
+            // Navigate back to opinion page
+            driver.get("https://elpais.com/opinion/");
+
+            //Fetch article links
+            articleLinks = driver.findElements(By.cssSelector("article h2 a"));
+        }
+        // Find repeated words
+        findRepeatedWords(englishTitles);
+    
 		}catch (Exception ex) {
 			logger.error("Error in Web Scraping");
 			logger.error("Exception" + ex.getMessage());

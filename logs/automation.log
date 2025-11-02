@@ -1423,3 +1423,142 @@ Session ID: e854d749059f680c596348200c50e910
 2025-11-01 23:13:36.232 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml
 
+2025-11-02 09:46:08.246 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml"
+2025-11-02 09:46:09.163 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml
+
+2025-11-02 09:46:30.451 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml"
+2025-11-02 09:46:31.363 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml
+
+2025-11-02 09:47:33.694 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml"
+2025-11-02 09:47:34.557 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml
+
+2025-11-02 09:48:09.702 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml"
+2025-11-02 09:48:10.615 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml
+
+2025-11-02 09:50:47.292 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml"
+2025-11-02 09:50:48.282 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml
+
+2025-11-02 09:55:16.742 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml"
+2025-11-02 09:55:17.605 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml
+
+2025-11-02 09:57:59.686 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\test-output\testng-failed.xml"
+2025-11-02 09:58:01.238 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\test-output\testng-failed.xml
+
+2025-11-02 09:59:29.730 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml"
+2025-11-02 09:59:30.589 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml
+
+2025-11-02 10:05:53.372 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml"
+2025-11-02 10:05:54.245 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml
+
+2025-11-02 10:06:17.454 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\LocalExecution.xml"
+2025-11-02 10:06:18.276 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\LocalExecution.xml
+
+2025-11-02 10:06:29.652 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-02 10:06:30.005 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-02 10:06:33.114 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-02 10:06:33.801 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-02 10:06:37.853 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-02 10:06:51.213 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-11-02 10:06:51.215 [main] ERROR pages.ArticlePage - Exceptionstale element reference: stale element not found
+  (Session info: chrome=141.0.7390.125)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [36434b88cdbc2521b81f2a54f4c52e1b, getElementText {id=f.E0EAAC72636595015E92B978E29C418A.d.4D80C9D40BB666D00D0FFA57382729BF.e.83}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54284}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54284/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (36434b88cdbc2521b81f2a54f4c52e1b)] -> css selector: article h2]
+Session ID: 36434b88cdbc2521b81f2a54f4c52e1b
+2025-11-02 10:07:15.241 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\LocalExecution.xml"
+2025-11-02 10:07:16.089 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\LocalExecution.xml
+
+2025-11-02 10:07:27.297 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-02 10:07:27.552 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-02 10:07:30.670 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-02 10:07:31.755 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-02 10:07:36.317 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-02 10:16:02.208 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml"
+2025-11-02 10:16:03.115 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml
+
+2025-11-02 10:48:01.417 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\LocalExecution.xml"
+2025-11-02 10:48:02.371 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\LocalExecution.xml
+
+2025-11-02 10:48:16.334 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-02 10:48:16.608 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-02 10:48:20.079 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-02 10:48:21.680 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-02 10:48:26.873 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-02 14:36:28.749 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml"
+2025-11-02 14:36:29.724 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml
+
+2025-11-02 14:42:09.191 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\LocalExecution.xml"
+2025-11-02 14:42:10.115 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\LocalExecution.xml
+
+2025-11-02 14:42:24.445 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\LocalExecution.xml"
+2025-11-02 14:42:25.259 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\LocalExecution.xml
+
+2025-11-02 14:42:38.614 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-02 14:42:38.985 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-02 14:42:42.082 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-02 14:42:42.893 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-02 14:42:47.161 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-02 14:43:01.248 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-11-02 14:43:01.251 [main] ERROR pages.ArticlePage - Exceptionstale element reference: stale element not found
+  (Session info: chrome=141.0.7390.125)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4c65adfc0e1947d8d730e1a9b07bf521, getElementText {id=f.2E16FE5D4782409A666F6856C8A9D4D1.d.16A8A0B7541E0358DEAFD5C23F09ADB2.e.115}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65190}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65190/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (4c65adfc0e1947d8d730e1a9b07bf521)] -> css selector: article h2]
+Session ID: 4c65adfc0e1947d8d730e1a9b07bf521
+2025-11-02 14:45:25.607 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\LocalExecution.xml"
+2025-11-02 14:45:26.439 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\LocalExecution.xml
+
+2025-11-02 14:45:38.774 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-02 14:45:39.116 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-02 14:45:42.220 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-02 14:45:42.883 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-02 14:45:47.071 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-02 14:45:59.964 [main] ERROR pages.ArticlePage - Error in Web Scraping
+2025-11-02 14:45:59.967 [main] ERROR pages.ArticlePage - Exceptionstale element reference: stale element not found
+  (Session info: chrome=141.0.7390.125)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [118df7d0148f941df67b7833977e938a, getElementText {id=f.48CAA68F812AEB809C172B87D3C97957.d.C4C48C8853ECDC74C793C036AB60D1EA.e.113}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.125, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58552}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58552/devtoo..., se:cdpVersion: 141.0.7390.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (118df7d0148f941df67b7833977e938a)] -> css selector: article h2]
+Session ID: 118df7d0148f941df67b7833977e938a
+2025-11-02 15:13:07.088 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\LocalExecution.xml"
+2025-11-02 15:13:08.028 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\LocalExecution.xml
+
+2025-11-02 15:13:20.839 [main] INFO  pages.ArticlePage - Accept Button icon is visible true
+2025-11-02 15:13:21.162 [main] INFO  pages.ArticlePage - Accept Button is clicked
+2025-11-02 15:13:24.301 [main] INFO  pages.ArticlePage - Page is in Spanish Language
+2025-11-02 15:13:25.036 [main] INFO  pages.ArticlePage - Opinion Button icon is visible true
+2025-11-02 15:13:29.592 [main] INFO  pages.ArticlePage - Opinion Button is clicked
+2025-11-02 15:15:21.279 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml"
+2025-11-02 15:15:22.182 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\CrossBrowser\CrossBrowser\crossbrowsertesting.xml
+

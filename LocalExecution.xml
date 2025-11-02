@@ -6,7 +6,7 @@
 		<listener class-name="utils.ExtentReportManager" />
 	</listeners>
 	<parameter name="browser" value="Chrome" />
-	<test thread-count="5" name="Test">
+	<test thread-count="1" name="Test">
 		<classes>
 			
 			<class name="testcases.CrossBrowser"/>
